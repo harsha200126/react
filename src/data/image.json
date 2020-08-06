@@ -1,0 +1,35 @@
+{
+    "profile":[   
+    {
+    "basics":{
+     "name":"Samsung Galaxy Note 9 ",
+     "colour":"Ocean Blue",
+     "internalstorage":"512 GB",
+     "ram":"8 GB RAM"
+    },
+    "career":" 8 GB RAM | 512 GB ROM | Expandable Upto 512 GB 6.4 inch Quad HD+ Display 12MP + 12MP | 8MP Front Camera 4000 mAh Lithium-ion Battery"
+    },
+
+
+    {
+      "basics":{
+      "name":"Samsung Galaxy S10 Plus ",
+      "colour":"Ceramic Black",
+      "internalstorage":"512 GB",
+      "ram":"8 GB RAM"
+     },
+    "career":" 8 GB RAM | 512 GB ROM | Expandable Upto 512 GB 16.26 cm (6.4 inch) Quad HD+ Display 16MP + 12MP | 10MP + 8MP Dual Front Camera 4100 mAh Lithium-ion Battery Exynos 9 9820 Processor"
+    },
+
+    {
+        "basics":{
+        "name":"Samsung Galaxy S20  ",
+        "colour":"Cosmic Gray",
+        "internalstorage":"128 GB",
+        "ram":"8 GB RAM"
+         },
+        "career":" 8 GB RAM | 128 GB ROM | Expandable Upto 1 TB 15.75 cm (6.2 inch) Quad HD+ Display 64MP + 12MP + 12MP | 10MP Front Camera 4000 mAh Lithium-ion Battery Exynos 990 Processor"
+    }
+
+   ]
+}
